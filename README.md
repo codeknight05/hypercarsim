@@ -4,7 +4,9 @@ Create a python environment python3 -m venv .venv
 Activate the virtual environment
 Install the requirements pip install -r requirements.txt
 You can also use setup.ps1
+
 Train
+
 Activate your virtual environment
 Run the training script python train_speed_estimator.py
 The input data is 'data/training_data.csv'
