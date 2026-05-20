@@ -5,7 +5,7 @@ Simulation of an electric hypercar in Unity using Vehicle Physics Pro.
 
 A couple of laps in Nordschleife:
 
-[![Vehicle Physics Pro simulation demo](
+[![Vehicle Physics Pro simulation demo](https://drive.google.com/file/d/1iK7L_2oNeZM5cGQ_0Ze_8ZD-p-DPy2I7/view?usp=drivesdk)
 
 ## Requirements
 
