@@ -19,7 +19,7 @@ A couple of laps in Nordschleife:
 
 NOTE: Don't copy the repository folder to an existing Unity project. The simulation won't likely work.
 
-## How to run the PERRINN 424 hypercar in autopilot
+## How to run the hypercar in autopilot
 
 1. Open the scene "Scenes/424 Nordschleife Scene".
 2. Play the scene. The car is at the starting point.
