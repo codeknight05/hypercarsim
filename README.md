@@ -1,17 +1,11 @@
-# PERRINN 424 Simulation
-Simulation of the PERRINN 424 electric hypercar in Unity using Vehicle Physics Pro.
-
-[More information on 424 Simulation](https://discover.perrinn.com/424/424-unity-simulation)
+# Hypercarsim Simulation 
+Simulation of an electric hypercar in Unity using Vehicle Physics Pro.
 
 ## Videos
 
 A couple of laps in Nordschleife:
 
-[![Vehicle Physics Pro simulating PERRINN 424 in Nordschleife](https://img.youtube.com/vi/mwIE3rJ9SHk/maxresdefault.jpg)](https://youtu.be/mwIE3rJ9SHk)
-
-One of the first tests in Monza:
-
-[First test of new tire model in electric LMP1 racing car](https://www.youtube.com/watch?v=OMoQGtA3gCs)
+[![Vehicle Physics Pro simulation demo](
 
 ## Requirements
 
@@ -33,7 +27,7 @@ NOTE: Don't copy the repository folder to an existing Unity project. The simulat
 
 All other features work normally: telemetry (T), cameras (C), time scale... (see left-bottom section of the UI for the feature list)
 
-## How to drive the 424
+## How to drive 
 
 1. Open one of the scenes in the Scenes folder and Play it.
 2. Press **I** to open the input settings. The first time it shows the default keyboard mappings.
