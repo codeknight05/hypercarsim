@@ -1,12 +1,6 @@
 # Hypercarsim Simulation 
 Simulation of an electric hypercar in Unity using Vehicle Physics Pro.
 
-## Videos
-
-A couple of laps in Nordschleife:
-
-[![Vehicle Physics Pro simulation demo](https://drive.google.com/file/d/1iK7L_2oNeZM5cGQ_0Ze_8ZD-p-DPy2I7/view?usp=drive_link)
-
 ## Requirements
 
 - Unity 2021.3 LTS (the project uses **Unity 2021.3.45**)
