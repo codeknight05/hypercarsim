@@ -39,7 +39,7 @@ Change the values according to the combined resolution of your displays.
 
 ## Development guidelines
 
-Writing code and components for the Project 424 should follow these rules:
+Writing code and components for the hypercarsim should follow these rules:
 
 #### Code
 
